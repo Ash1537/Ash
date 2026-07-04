@@ -32,7 +32,7 @@ A light theme with a pink accent, built around a "signal" motif: a thin animated
 No build step required — just open the file:
 
 ```bash
-open index.html
+open Portfolio.html
 ```
 
 or serve it locally:
@@ -43,7 +43,7 @@ python3 -m http.server 8000
 
 ## Deploying to GitHub Pages
 
-1. Make sure `index.html` is at the root of the `main` branch
+1. Make sure `Portfolio.html` is at the root of the `main` branch
 2. In the repo, go to **Settings → Pages**
 3. Under **Build and deployment**, set **Source** to `Deploy from a branch`, branch `main`, folder `/ (root)`
 4. Save — the site will be live at `https://ash1537.github.io/Portfolio`
